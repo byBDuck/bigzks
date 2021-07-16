@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @bigzks
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning js, html and css
+Hi, I’m Big
+I do some stuff in js html and css.
+Looking to improve, so if anyone has a tip or wanna help, idk, pls help lol.
+
+Discord: daDuck#5716
 
 <!---
 bigzks/bigzks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
