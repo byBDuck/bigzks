@@ -2,7 +2,7 @@ Hi, I’m Big
 I do some stuff in js html and css.
 Looking to improve, so if anyone has a tip or wanna help, idk, pls help lol.
 
-Discord: daDuck#5716
+Discord: bigbig#5716
 
 <!---
 bigzks/bigzks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
